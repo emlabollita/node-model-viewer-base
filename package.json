@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "build": "webpack"
+    "start": "node src/index.js"
   },
   "heroku-run-build-script": true,
   "repository": {
@@ -20,10 +19,6 @@
   "homepage": "https://github.com/emlabollita/node-model-viewer-base#readme",
   "dependencies": {
     "ejs": "^3.1.5",
-    "express": "^4.17.1",
-    "webpack": "^5.3.0"
-  },
-  "devDependencies": {
-    "webpack-cli": "^4.1.0"
+    "express": "^4.17.1"
   }
 }
