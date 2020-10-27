@@ -20,6 +20,7 @@
   "homepage": "https://github.com/emlabollita/node-model-viewer-base#readme",
   "dependencies": {
     "ejs": "^3.1.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "webpack": "^5.3.0"
   }
 }
